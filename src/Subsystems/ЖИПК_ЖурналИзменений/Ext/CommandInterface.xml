@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
+	<CommandsVisibility>
+		<Command name="Catalog.ЖИПК_КлючиАналитикиПрикладныхРешений.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ЖИПК_ОсновнаяРоль">false</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="InformationRegister.ЖИПК_ПараметрыРеглЗаданий.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ЖИПК_ОсновнаяРоль">false</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Catalog.ЖИПК_КлючиАналитикиПрикладныхРешений.StandardCommand.Create">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ЖИПК_ОсновнаяРоль">false</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="InformationRegister.ЖИПК_ПараметрыРеглЗаданий.StandardCommand.Create">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ЖИПК_ОсновнаяРоль">false</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Constant.ЖИПК_ДанныеПользователяСУБД.StandardCommand.Open">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ЖИПК_ОсновнаяРоль">false</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="Constant.ЖИПК_ДанныеСистемногоПользователя.StandardCommand.Open">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ЖИПК_ОсновнаяРоль">false</xr:Value>
+			</Visibility>
+		</Command>
+		<Command name="DataProcessor.ЖИПК_ЖурналИзмененийПрикладныхРешений.StandardCommand.Open">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+				<xr:Value name="Role.ЖИПК_ОсновнаяРоль">false</xr:Value>
+			</Visibility>
+		</Command>
+	</CommandsVisibility>
+</CommandInterface>
